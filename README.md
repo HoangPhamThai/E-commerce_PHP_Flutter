@@ -10,7 +10,7 @@ The following steps will show you how to run the app (in Windows):
 
 **Create database**
 
-  1. At http://localhost/phpmyadmin/, click **New** to create a new database.
+⋅⋅1. At http://localhost/phpmyadmin/, click **New** to create a new database.
 
   2. Set a name for the database (e.g. flutter_php_db).
 
