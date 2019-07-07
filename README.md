@@ -37,6 +37,6 @@ Table 2-6: dogiadung, giaydep, quanao, smartphone and xabong (respectively mean 
 
 + 4.9. In **Database** tag, choose the name of the database (in 3.2).
 
-5. In .dart files, change the IP address to your IP address (cmd -> ipconfig).
+5. In .dart files, change the IP address **192.168.137.1** (this is my IP address when I develop this app) to your IP address (cmd -> ipconfig).
 6. Connect your smartphone to your PC and execute the code.
 7. Enjoy.
